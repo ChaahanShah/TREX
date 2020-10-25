@@ -90,7 +90,7 @@ function setup() {
 //draw function
 //use to write everything that happens in the game.
 function draw() {
-  background("grey");
+  background("white");
   text("Score: " +score,520,20);
 
  // console.log(trex.depth);
